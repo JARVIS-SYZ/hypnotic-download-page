@@ -96,7 +96,6 @@ a.store-button:focus-visible { outline: 2px solid #71dbff; outline-offset: 3px; 
 .store-button span { display: grid; gap: 3px; text-align: left; }
 .store-button small { color: #a9c4d4; font-size: .7rem; line-height: 1; }
 .store-button strong { font-size: 1rem; line-height: 1.1; white-space: nowrap; }
-.store-button-pending { opacity: .52; cursor: default; }
 
 @media (max-width: 480px) {
   .download-panel { padding: 34px 20px 28px; }
